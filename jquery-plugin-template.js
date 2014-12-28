@@ -49,5 +49,7 @@ if (typeof jQuery === 'undefined') {
 		});
 	};
 
-	$.fn.formSection.defaults = {};
+	$.fn.formSection.defaults = {
+		
+	};
 })(jQuery);
