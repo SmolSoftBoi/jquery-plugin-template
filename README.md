@@ -1,4 +1,1 @@
-jquery-plugin-template
-======================
-
-jQuery Plugin Template
+# jQuery Plugin Template
