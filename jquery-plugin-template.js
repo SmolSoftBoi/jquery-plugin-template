@@ -2,7 +2,7 @@
  * jQuery Plugin Template
  * 
  * Kristian Matthews
- * Copyright (c) 2014 Kristian Matthews (https://epickris.com) All rights reserved.
+ * Copyright (c) 2014 - 2015 Kristian Matthews (https://epickris.com) All rights reserved.
  * https://github.com/EpicKris/jquery-plugin-template
  * 1.0.0
  */
