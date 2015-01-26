@@ -45,11 +45,11 @@ if (typeof jQuery === 'undefined') {
 
 			if ( ! data) $this.data('fn.jQueryPluginTemplate', (data = new Plugin(this, options)));
 
-			data[(typeof method === 'string') ? method : 'init']();
+			data[(typeof method === 'string') ? method : 'init'](options);
 		});
 	};
 
-	$.fn.formSection.defaults = {
+	$.fn.jQueryPluginTemplate.defaults = {
 		
 	};
 })(jQuery);
